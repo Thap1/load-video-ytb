@@ -1,0 +1,32 @@
+.style-input {
+  width: 590px;
+  height: 35px;
+  border-radius: 7px;
+  border: 1px solid #1890ff;
+  margin: 10px 0;
+  padding-left: 10px;
+}
+button {
+  width: 100px;
+  height: 40px;
+  border-radius: 7px;
+  border: 1px solid #1890ff;
+  color: #fff;
+  background-color: #1890ff;
+  cursor: pointer;
+}
+.not-url {
+  padding-top: 10px;
+  font-size: 130%;
+  height: 40px;
+  color: #ff7875;
+}
+
+.comment {
+  height: 30px;
+  width: 600px;
+  text-align: center;
+  padding-top: 10px;
+  margin: 10px auto;
+  border: 1px solid #91d5ff;
+}
